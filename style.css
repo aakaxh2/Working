@@ -32,13 +32,13 @@ ul li a{
 ul li a:hover{
 	background-color:#90bdfc;
 	background: -webkit-linear-gradient(to right, #5f7696, #6f82c7, #987db4, #f3b7e1);
-	background: linear-gradient(to right, #24b8ee, #d89736, #7c36dd, #a48cb9);
+	background: linear-gradient(to right, #24b8ee, #369dd8, #7c36dd, #a48cb9);
 	color: #000;
 }
 ul li.active a{
-	background-color:#fccb90;
+	background-color:#90bdfc;
 	background: -webkit-linear-gradient(to right, #5f7696, #6f82c7, #987db4, #f3b7e1);
-	background: linear-gradient(to right, #24b8ee, #d89736, #7c36dd, #a48cb9);
+	background: linear-gradient(to right, #24b8ee, #369dd8, #7c36dd, #a48cb9);
 	color: #000;
 }
 .main{
@@ -73,9 +73,9 @@ ul li.active a{
 	/*margin-left: 300px;*/
 }
 .btn:hover {
-	background-color:#fccb90;
+	background-color:#90bdfc;
 	background: -webkit-linear-gradient(to right, #5f7696, #6f82c7, #987db4, #f3b7e1);
-	background: linear-gradient(to right, #24b8ee, #d89736, #7c36dd, #a48cb9);
+	background: linear-gradient(to right, #24b8ee, #369dd8, #7c36dd, #a48cb9);
 	color: #000;
 }
 
